@@ -1,0 +1,9 @@
+plugins {
+    id("my-java-library")
+}
+
+//java {
+//    toolchain {
+//        languageVersion = JavaLanguageVersion.of(21)
+//    }
+//}
