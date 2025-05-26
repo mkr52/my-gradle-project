@@ -1,5 +1,3 @@
-import org.apache.tools.ant.taskdefs.Java
-
 plugins {
     id("java")
     id("com.diffplug.spotless")
