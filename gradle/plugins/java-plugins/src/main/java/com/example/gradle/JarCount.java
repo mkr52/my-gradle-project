@@ -14,7 +14,7 @@ import java.util.Set;
 @CacheableTask
 public abstract class JarCount extends DefaultTask {
 
-    // ConfigurableFileCollection <- @InoutFiles
+    // ConfigurableFileCollection <- @InputFiles
     // RegularFileProperty <- @InputFile
     // DirectoryProperty <- @InoutDirectory
 
